@@ -1,6 +1,6 @@
-sing System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace GalloFlix.Models;
+namespace NullerFlix.Models;
 
 [Table("Genre")]
 public class Genre

@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GalloFlix.Models;
+namespace NullerFlix.Models;
 [Table("MovieGenre")]
 public class MovieGenre
 {

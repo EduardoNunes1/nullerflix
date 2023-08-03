@@ -3,7 +3,7 @@ using NullerFlix.Interfaces;
 using NullerFlix.Models;
 using MySql.Data.MySqlClient;
 
-namespace NulelrFlix.Repositories;
+namespace NullerFlix.Repositories;
 
 public class MovieRepository : IMovieRepository
 {
